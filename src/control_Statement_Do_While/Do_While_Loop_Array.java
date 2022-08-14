@@ -1,4 +1,4 @@
-package control_Statement;
+package control_Statement_Do_While;
 
 public class Do_While_Loop_Array {
 

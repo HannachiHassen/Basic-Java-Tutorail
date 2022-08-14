@@ -1,4 +1,4 @@
-package control_Statement;
+package control_statment_If_Else;
 
 public class Nested_If {
 	public static void main(String args[]) {

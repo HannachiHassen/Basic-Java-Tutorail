@@ -1,4 +1,4 @@
-package control_Statement;
+package control_Statement_Switch;
 
 public class Switch_Case {
 

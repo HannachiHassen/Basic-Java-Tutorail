@@ -1,4 +1,4 @@
-package control_Statement;
+package control_Statment_For_Loop;
 
 public class For_Loop_Array {
 	public static void main(String args[]){

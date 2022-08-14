@@ -1,4 +1,4 @@
-package control_Statement;
+package control_Statement_While_Loop;
 
 public class While_Loop_Array {
 
