@@ -15,7 +15,7 @@ public class HashSetSort {
 		HashSet<Integer> numbersSet = new LinkedHashSet<>( 
 		        Arrays.asList(15, 11, 9, 55, 47, 18, 1123, 520, 366, 420) );
 		 
-		List<Integer> numbersList = new ArrayList<Integer>(numbersSet) ;        //set -> list
+		List<Integer> numbersList = new ArrayList<>(numbersSet) ;        //set -> list
 		 
 		//Sort the list
 		Collections.sort(numbersList);

@@ -1,6 +1,10 @@
 /array/
 /collection/
-/control_Statement/
+/control_Statement_Do_While/
+/control_Statement_Switch/
+/control_Statement_While_Loop/
+/control_Statment_For_Loop/
+/control_statment_If_Else/
 /exceptionHandling/
 /homework/
 /inheritance/

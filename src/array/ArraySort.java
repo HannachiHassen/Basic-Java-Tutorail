@@ -23,4 +23,6 @@ public class ArraySort {
 		Arrays.sort(strarray);   
 		System.out.println("Array elements in ascending order: " +Arrays.toString(strarray)); 
 	}
+	
+	
 }
